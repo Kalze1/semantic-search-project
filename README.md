@@ -1,6 +1,6 @@
 # **Semantic Search System for Clothing Dataset**
 
-This project implements a **Semantic Search System** for a clothing dataset, enabling users to search for items based on natural language queries. The system leverages **FastAPI** for the backend, **React** for the frontend, and integrates with **Neo4j** for a knowledge graph to enhance search accuracy.
+This project implements a Semantic Search System, allowing users to search for items or information based on natural language queries. The system is designed to demonstrate the concept and implementation of semantic search, leveraging FastAPI for the backend, React for the frontend, and integrating with Neo4j for a knowledge graph to enhance search relevance and accuracy.
 
 ---
 
