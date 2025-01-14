@@ -1,0 +1,10 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+neo4j==5.10.0
+sentence-transformers==2.2.2
+numpy==1.26.0
+pandas==2.2.3
+scikit-learn==1.6.1
+redis==5.1.0
+pydantic==2.1.1
+python-dotenv==1.0.0
